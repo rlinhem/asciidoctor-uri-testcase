@@ -1,1 +1,3 @@
 = URI testcase
+
+include::test/test.adoc
