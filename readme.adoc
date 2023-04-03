@@ -2,7 +2,5 @@
 
 include::test/test.adoc[]
 
-include::test/test2.adoc[]
-
 include::test/test3/test3.adoc[]
 
